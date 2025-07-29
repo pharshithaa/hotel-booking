@@ -38,5 +38,4 @@ The **Homestay Booking Platform** is a full-stack web application designed to he
 - **Git**: Version control to manage the codebase.
 - **REST API**: Used for communication between the frontend and backend.
 
----
 
